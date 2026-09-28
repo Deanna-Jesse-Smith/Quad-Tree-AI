@@ -224,7 +224,7 @@ synchronously before calling `Destroy`.
 
 ## Credits and licence
 - All code written by Deanna Smith (224079158) for a graded Honours assignment 
-  at Nelson Mandela University, 2025
+  at Nelson Mandela University, 2026
 - Reynolds steering behaviour formulations: Craig Reynolds, "Steering Behaviors 
   for Autonomous Characters" (GDC 1999)
 - Quad-tree structure based on: Finkel & Bentley, "Quad trees: a data structure 
